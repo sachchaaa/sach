@@ -6,7 +6,7 @@
 
 </div>
 
-![open](https://img.shields.io/badge/Open%20to%20internships-38bdf8?style=flat-square&logoColor=white&logo=briefcase)
+[![open](https://img.shields.io/badge/Open%20to%20internships-38bdf8?style=flat-square&logoColor=white&logo=briefcase)](mailto:sachini.fedo002@gmail.com)
 
 ---
 
