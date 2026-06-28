@@ -38,11 +38,11 @@ My career goal is to grow into a skilled full‑stack developer, contributing to
 
 ---
 
-
 ## 🌐 Portfolio
 
 🔗 Portfolio Website:  
-[Visit My Portfolio](https://dinuja937.github.io/my-portfolio/)
+[Visit My Portfolio](https://sachini-menuwara-portfolio.netlify.app/)
+
 
 ---
 
