@@ -52,7 +52,6 @@ I am a passionate Software Engineering undergraduate with a strong interest in s
 
 [![Email](https://img.shields.io/badge/Email-0f3460?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:sachini.fedo002@gmail.com)
 
-
 </div>
 
 <div align="center">
